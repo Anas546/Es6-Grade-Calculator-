@@ -1,0 +1,26 @@
+.main{
+    /* border: 2px solid black; */
+    width: 98vw;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.box{
+    background-color: #fbc30005;
+    height: 4.4rem;
+    width: 15rem;
+    border: 1px solid #969696;
+}
+p{
+    text-align: center;
+}
+h4{
+    padding-bottom: 1rem;
+    margin: 1rem;
+}
+        h1{
+            text-align: center;
+            text-decoration: underline;
+            font-size:3rem ;
+        }
